@@ -1,0 +1,8 @@
+Admin Account:
+Email: admin@test.com
+Password: password123
+Role: Admin
+Student Account:
+Email: student@test.com
+Password: password123
+Role: Student
